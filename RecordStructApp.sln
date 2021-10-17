@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record_Structs", "Record_Structs\Record_Structs.csproj", "{B7EBDB04-6E74-4434-8BBA-4AB40D823D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Readonly_Record_Structs", "Readonly_Record_Structs\Readonly_Record_Structs.csproj", "{1FDB6176-8BCF-4301-86AC-B39EBD755DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EBDB04-6E74-4434-8BBA-4AB40D823D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EBDB04-6E74-4434-8BBA-4AB40D823D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EBDB04-6E74-4434-8BBA-4AB40D823D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EBDB04-6E74-4434-8BBA-4AB40D823D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDB6176-8BCF-4301-86AC-B39EBD755DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDB6176-8BCF-4301-86AC-B39EBD755DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDB6176-8BCF-4301-86AC-B39EBD755DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDB6176-8BCF-4301-86AC-B39EBD755DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FD1706-8E7D-42CD-A609-F7409E2E9F21}
+	EndGlobalSection
+EndGlobal
